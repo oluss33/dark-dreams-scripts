@@ -1,0 +1,85 @@
+{
+    "version": 1,
+    "name": "Quick Time Events",
+    "maps": [
+        {
+            "name": "Keyboard",
+            "id": "e8c1c4e3-f81b-47b8-a524-89d277a1ae07",
+            "actions": [
+                {
+                    "name": "Action",
+                    "type": "Button",
+                    "id": "59c056ef-4e6d-465f-98ab-e2a844bb3f4b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b3125f5b-ccad-45b9-91ec-fb44811af6dd",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "146f4424-ae8e-4213-8f8b-e0b41bbbf97c",
+                    "path": "<Keyboard>/b",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "026ffd01-0679-49f2-b036-31ca50d0cb02",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Gamepad",
+            "id": "b2d532f6-08af-4fb4-a82e-adb50c88a736",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "620b1646-bbba-4745-a250-3e883cee1c3d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "193c11e6-8ac6-4568-97ec-3fea8a289c36",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
